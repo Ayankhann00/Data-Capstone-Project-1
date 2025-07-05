@@ -85,6 +85,8 @@ Ayan Khan
 ![plot8](https://github.com/user-attachments/assets/553bd8dd-8598-4f90-8e1c-52c86e7b134b)
 ![plot10](https://github.com/user-attachments/assets/8b90e24b-62d7-4ce9-bf7b-1561e1a921f1)
 ![plot5](https://github.com/user-attachments/assets/2644a075-de16-4565-9635-10ade7a6fc7b)
+![plot4](https://github.com/user-attachments/assets/d03bc20e-390b-416b-a5c0-05662950ee18)
+
 
 
 
