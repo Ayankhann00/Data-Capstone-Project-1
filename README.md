@@ -78,3 +78,14 @@ Build an interactive dashboard (e.g., Streamlit or Dash)
 Ayan Khan
 📍 NUST University | 💻 Data Science Enthusiast
 📫 LinkedIn | GitHub
+
+\Check my Plots Below 
+
+![plot2](https://github.com/user-attachments/assets/df1078a2-568a-46fb-8cb4-77531f311b43)
+![plot8](https://github.com/user-attachments/assets/553bd8dd-8598-4f90-8e1c-52c86e7b134b)
+![plot10](https://github.com/user-attachments/assets/8b90e24b-62d7-4ce9-bf7b-1561e1a921f1)
+![plot5](https://github.com/user-attachments/assets/2644a075-de16-4565-9635-10ade7a6fc7b)
+
+
+
+
